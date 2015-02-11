@@ -1,0 +1,36 @@
+html, body {
+	height: 2000px;
+	width: 100%;
+	margin: 0;
+	background-color: #005AA3;
+}
+
+.link_box_top {
+	height: 50px;
+	width: 100%;
+	background-color: #004E8E;
+	border-bottom: 1px solid black;
+}
+
+.container {
+	height: 800px;
+	width: 90%;
+	margin: 0 auto;
+	background-color: #FFFFFF;
+}
+
+.Title_box_top {
+	height: 200px;
+	width: 30%;
+}
+
+.Menu_box_top {
+	height: 10px;
+}	
+
+.img_box_top {
+	height: 300px;
+	width: 100%
+	margin: 0 auto;
+}
+
